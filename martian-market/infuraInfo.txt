@@ -1,0 +1,11 @@
+Project Solidity infura
+
+Project ID: 170de88fdeb54d7fb3c40ded85a63a30
+
+Project secret : 2b36855f41c7439a932c051633682af9
+
+Ropsten
+
+https://ropsten.infura.io/v3/170de88fdeb54d7fb3c40ded85a63a30
+
+wss://ropsten.infura.io/ws/v3/170de88fdeb54d7fb3c40ded85a63a30
